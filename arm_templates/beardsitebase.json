@@ -270,7 +270,7 @@
             "name": "[variables('backendserver')]",
             "location": "[resourceGroup().location]",
             "dependsOn": [
-                "[resourceId('Microsoft.Network/networkInterfaces', variables('backendpip'))]"
+                "[resourceId('Microsoft.Network/networkInterfaces', variables('nicname'))]"
             ],
             "tags": {
                 "BeardSite": "[resourceGroup().location]"
