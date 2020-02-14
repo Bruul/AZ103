@@ -41,7 +41,7 @@
     },
     "variables": {
         "backendserver": "bacnkend2",
-        "nicname": "backend2nic",
+        "nicname": "backendnic",
         "backendpip": "backendpip"
     },
     "resources": [
