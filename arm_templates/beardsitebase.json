@@ -40,7 +40,7 @@
         }
     },
     "variables": {
-        "backendserver": "bacnkend2",
+        "backendserver": "backend2",
         "nicname": "backendnic",
         "backendpip": "backendpip"
     },
